@@ -1,2 +1,11 @@
-﻿  Lab 7.cpp
+﻿  main.cpp
+C:\Users\Serhii\source\repos\Lab 7\Lab 7\main.cpp(46,29): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Serhii\source\repos\Lab 7\Lab 7\main.cpp(58,30): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Serhii\source\repos\Lab 7\Lab 7\main.cpp(96,29): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Serhii\source\repos\Lab 7\Lab 7\main.cpp(108,30): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  Signal.cpp
+C:\Users\Serhii\source\repos\Lab 7\Lab 7\Signal.cpp(50,17): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Serhii\source\repos\Lab 7\Lab 7\Signal.cpp(61,17): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Serhii\source\repos\Lab 7\Lab 7\Signal.cpp(71,17): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  Generating Code...
   Lab 7.vcxproj -> C:\Users\Serhii\source\repos\Lab 7\x64\Debug\Lab 7.exe
